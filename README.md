@@ -26,6 +26,6 @@ Open the file, then add
 ```
  "channels":
     [
-        "https://github.com/mrmign/sublime_channels/blob/master/channel_v3.json",
+        "https://raw.githubusercontent.com/mrmign/sublime_channels/master/channel_v3.json",
     ],
 ```
