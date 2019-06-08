@@ -1,2 +1,4 @@
 # sublime_channels
-sublime channels backup
+sublime text 3 channels backup
+
+
